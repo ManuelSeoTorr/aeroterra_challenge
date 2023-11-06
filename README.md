@@ -1,2 +1,6 @@
 # aeroterra_challenge
 Challenge para Aeroterra
+
+Mi nombre es Manuel Seoane Torrealba, a continuación podrán ver mi desafío técnico para Aeroterra. El mismo consistía en crear una APP WEB que permita ingresar puntos de interés en un mapa. 
+Para desarrollarla utilicé JavaScript, HTML y Maps JavaScript API. Para su ejecución solo es necesario abrirla desde Live Server. En esta APP WEB podrás crear marcadores completando un formulario al que se puede acceder desde el botón "Crear Marcador". En el mismo encontrarás campos obligatorios, tales como la dirección y las coordenadas, los otros campos se autocompletarán de forma predeterminada. También podrás cliquear en el mapa para colocar de forma manual un indicador que al cliquearlo podrás convertirlo en un marcador. Otra forma de ingresar este indicador es a partir de un input. 
+Agradezco la posibilidad de haber llevado adelante este desafío técnico, me dio la oportunidad de aplicar mi conocimiento de formas que todavía no había probado. Espero que sea de su agrado y utilidad. 
